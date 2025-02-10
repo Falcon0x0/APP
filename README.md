@@ -1,2 +1,1 @@
-# APP
-I developed a weather app using Dart language and Flutter Framework.
+To get the details please visit the Master Branch.
